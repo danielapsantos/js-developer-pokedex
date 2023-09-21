@@ -1,0 +1,5 @@
+{
+    // workbench
+    "workbench.editor.enablePreview": false,
+    "workbench.iconTheme": "material-icon-theme"
+}
